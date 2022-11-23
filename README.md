@@ -46,7 +46,7 @@ $DBCFG["DBPass"] = "123mudar";
 - Abrir o link http://localhost:8080
 - Configurar o tematres 
 
-**Demais Repositorios:
+**Demais Repositórios:
 
 - tematres: https://github.com/tematres/TemaTres-Vocabulary-Server/
 - php-apache-7.4: https://github.com/Runner668/php-apache-7.4 
