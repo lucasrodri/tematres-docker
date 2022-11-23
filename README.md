@@ -33,7 +33,16 @@ senha: 123mudar
 ```
 
 **Passos para executar tematres**
-- Criar db tematres via phpMyAdmin
+- Criar db <tematres> via phpMyAdmin
+- Configurar arquivo www/tematres/vocab/db.tematres.php
+
+```
+$DBCFG["Server"]      = "db";
+$DBCFG["DBName"]     = "<tematres>";
+$DBCFG["DBLogin"]    = "root";
+$DBCFG["DBPass"] = "123mudar";
+```
+
 - Abrir o link http://localhost:8080
 - Configurar o tematres 
 
