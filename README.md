@@ -33,7 +33,7 @@ senha: 123mudar
 ```
 
 **Passos para executar tematres**
-- Criar db <tematres> via phpMyAdmin
+- Criar db \<tematres\> via phpMyAdmin
 - Configurar arquivo www/tematres/vocab/db.tematres.php
 
 ```
